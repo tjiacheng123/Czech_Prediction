@@ -4,3 +4,5 @@ We will be utilizing datasets from PKDD'99 Discovery Challenge. The datasets are
 We will be utilizing Python and Jupyter notebook to peform our exploratory data analysis and build our prediction model.
 
 More information and files on the datasets can be found in this [link](https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions)
+
+Currently building the prediction model and will be uploading my script in the coming weeks :)
