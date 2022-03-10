@@ -5,5 +5,5 @@ We will be utilizing Python, SQL and Jupyter notebook environment to perform our
 
 More information and files on the datasets can be found in this [link](https://data.world/lpetrocelli/czech-financial-dataset-real-anonymized-transactions).
 
-Follow the data transformation and exploratary data analysis [here](https://github.com/tjiacheng123/Loan_Prediction/blob/main/Data_Exploration.ipynb):
-Follow the process of building the logistic regression model [here](https://github.com/tjiacheng123/Loan_Prediction/blob/main/Loan_Prediction_Model.ipynb):
+Follow the data transformation and exploratary data analysis [here](https://github.com/tjiacheng123/Loan_Prediction/blob/main/Data_Exploration.ipynb).
+Follow the process of building the logistic regression model [here](https://github.com/tjiacheng123/Loan_Prediction/blob/main/Loan_Prediction_Model.ipynb).
