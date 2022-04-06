@@ -7,6 +7,7 @@ More information and files on the datasets can be found in this [link](https://d
 
 Follow the data transformation and exploratary data analysis [here](https://github.com/tjiacheng123/Loan_Prediction/blob/main/Data_Exploration.ipynb).
 <br/>
+
 The data transformation and exploration process includes:
 - Joining multiple datasets
 - Date parsing
